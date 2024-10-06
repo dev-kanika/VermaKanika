@@ -1,4 +1,4 @@
-## Hey there 👋 Welcome to my GitHub portfolio!
+## Hey there 👋🏻 Welcome to my GitHub portfolio!
 This repository serves as a digital showcase where you can learn more about my skills, projects, and journey in the fields of Artificial Intelligence and Data Science.
 
 I am Kanika Verma,
