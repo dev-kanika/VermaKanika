@@ -25,7 +25,7 @@ I’m always open to learning and collaborating on Artificial Intelligence and D
 
 **GitHub:** https://github.com/VermaKanika
 
-**Email:** kanika.verma1996@gmail.com
+**Email:** kanika281196@gmail.com
 
 
 Thank you for visiting my GitHub portfolio! Your feedback and suggestions are always welcome.
