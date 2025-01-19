@@ -11,9 +11,7 @@ With a strong foundation in Python, R, C++, and SQL, I'm currently pursuing a po
 
 - **Projects:** Explore a diverse range of AI and Data Science projects, from building machine learning models to data visualization and exploratory data analysis. Each project includes a detailed README for better understanding.
 
-- **Skills:** Get to know the technologies and programming languages I am proficient in, including Python and SQL as well as tools like MS Excel and Google Workspace.
-
-- **Resume/CV:** Access the latest version of my resume/CV, detailing my education, work experience, and certifications.
+- **Skills:** Get to know the technologies and programming languages I am proficient in, including Python and SQL.
 
 **Let’s Collaborate:**
 
