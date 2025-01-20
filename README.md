@@ -1,7 +1,7 @@
 ## Hey there 👋🏻 Welcome to my GitHub portfolio!
 This repository serves as a digital showcase where you can learn more about my skills, projects, and journey in the fields of Artificial Intelligence and Data Science.
 
-I am Kanika Verma,
+I am Kanika,
 
 An AI Specialist and Data Analyst with over 2 years of experience in teaching and working on data-driven projects.
 
