@@ -21,7 +21,7 @@ I’m always open to learning and collaborating on Artificial Intelligence and D
 
 **LinkedIn:** https://www.linkedin.com/in/kanika96
 
-**GitHub:** https://github.com/VermaKanika
+**GitHub:** https://github.com/dev-kanika
 
 **Email:** kanika281196@gmail.com
 
